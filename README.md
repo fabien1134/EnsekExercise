@@ -39,3 +39,6 @@ We want you to be able to give of your best in this exercise so here are some po
 
 Having a user interface is a bonus
 Overall, we are looking for clarity of code, understanding of key and core modern coding principles and for you to put your mark on the exercise and enjoy it along the way
+
+[Test_Accounts.xlsx](https://github.com/fabien1134/EnsekExercise/files/14910576/Test_Accounts.xlsx)
+[Meter_Reading.csv](https://github.com/fabien1134/EnsekExercise/files/14910577/Meter_Reading.csv)
