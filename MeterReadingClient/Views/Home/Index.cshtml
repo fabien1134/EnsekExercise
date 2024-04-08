@@ -26,7 +26,7 @@
         formData.append('csvFile', fileInput.files[0]);
 
         $.ajax({
-            url: 'https://localhost:7213/meter-reading-uploads',
+            url: 'https://localhost:7006/meter-reading-uploads',
             type: 'POST',
             data: formData,
             processData: false,
